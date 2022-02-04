@@ -1,0 +1,16 @@
+.link{
+    padding: 10px;
+    background-color: brown;
+    color: white;
+    margin: 50px;
+    width: 100%;
+    display: inline-block;
+}
+
+p {
+    margin: 16px;
+}
+
+header > p{
+    color: blue;
+}
